@@ -1,0 +1,5 @@
+provas/gabarito/
+templates/
+.mypy_cache/
+.pytest_cache/
+.venv/
