@@ -14,7 +14,7 @@ dependencies = [
 lox = "lox.cli:main"
 
 [dependency-groups]
-dev = ["hypothesis>=6.131.19", "pytest>=8.3.5"]
+dev = ["pytest>=8.3.5", "pytest-timeout>=2.4.0"]
 
 [tool.ruff.lint]
 select = ["E4", "E7", "E9", "F"]
